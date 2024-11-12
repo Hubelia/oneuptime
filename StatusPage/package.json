@@ -50,7 +50,7 @@
     "cross-env": "^7.0.3",
     "nodemon": "^2.0.20",
     "ts-node": "^10.9.1",
-    "webpack": "^5.76.0",
+    "webpack": "^5.96.1",
     "webpack-bundle-analyzer": "^4.10.1"
   }
 }
